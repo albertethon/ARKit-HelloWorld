@@ -19,6 +19,8 @@
 		A92080BC221268CF008C88E5 /* FaceTrackingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080BB221268CF008C88E5 /* FaceTrackingController.swift */; };
 		A92080BE221268DF008C88E5 /* ImageTrackingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080BD221268DF008C88E5 /* ImageTrackingController.swift */; };
 		A92080C2221279A2008C88E5 /* IronMan.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080C1221279A2008C88E5 /* IronMan.swift */; };
+		A9EC8C3F2212AB20000B4B4F /* IMG_1368.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9EC8C3D2212AB20000B4B4F /* IMG_1368.jpg */; };
+		A9EC8C402212AB20000B4B4F /* IMG_1369.PNG in Resources */ = {isa = PBXBuildFile; fileRef = A9EC8C3E2212AB20000B4B4F /* IMG_1369.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		A92080BB221268CF008C88E5 /* FaceTrackingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceTrackingController.swift; sourceTree = "<group>"; };
 		A92080BD221268DF008C88E5 /* ImageTrackingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageTrackingController.swift; sourceTree = "<group>"; };
 		A92080C1221279A2008C88E5 /* IronMan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IronMan.swift; sourceTree = "<group>"; };
+		A9EC8C3D2212AB20000B4B4F /* IMG_1368.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1368.jpg; path = ../../../../Downloads/IMG_1368.jpg; sourceTree = "<group>"; };
+		A9EC8C3E2212AB20000B4B4F /* IMG_1369.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_1369.PNG; path = ../../../../Downloads/IMG_1369.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 		A920807B2212608F008C88E5 = {
 			isa = PBXGroup;
 			children = (
+				A9EC8C3D2212AB20000B4B4F /* IMG_1368.jpg */,
+				A9EC8C3E2212AB20000B4B4F /* IMG_1369.PNG */,
 				A92080862212608F008C88E5 /* HelloWorld */,
 				A920809D22126090008C88E5 /* HelloWorldTests */,
 				A92080A822126090008C88E5 /* HelloWorldUITests */,
@@ -245,8 +251,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A920808A2212608F008C88E5 /* art.scnassets in Resources */,
+				A9EC8C3F2212AB20000B4B4F /* IMG_1368.jpg in Resources */,
 				A920809422126090008C88E5 /* LaunchScreen.storyboard in Resources */,
 				A920809122126090008C88E5 /* Assets.xcassets in Resources */,
+				A9EC8C402212AB20000B4B4F /* IMG_1369.PNG in Resources */,
 				A920808F2212608F008C88E5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
