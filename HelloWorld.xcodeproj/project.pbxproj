@@ -15,6 +15,10 @@
 		A920809422126090008C88E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A920809222126090008C88E5 /* LaunchScreen.storyboard */; };
 		A920809F22126090008C88E5 /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A920809E22126090008C88E5 /* HelloWorldTests.swift */; };
 		A92080AA22126090008C88E5 /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080A922126090008C88E5 /* HelloWorldUITests.swift */; };
+		A92080BA221268BC008C88E5 /* WorldTrackingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080B9221268BC008C88E5 /* WorldTrackingController.swift */; };
+		A92080BC221268CF008C88E5 /* FaceTrackingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080BB221268CF008C88E5 /* FaceTrackingController.swift */; };
+		A92080BE221268DF008C88E5 /* ImageTrackingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080BD221268DF008C88E5 /* ImageTrackingController.swift */; };
+		A92080C2221279A2008C88E5 /* IronMan.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92080C1221279A2008C88E5 /* IronMan.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		A92080A522126090008C88E5 /* HelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A92080A922126090008C88E5 /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		A92080AB22126090008C88E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A92080B9221268BC008C88E5 /* WorldTrackingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldTrackingController.swift; sourceTree = "<group>"; };
+		A92080BB221268CF008C88E5 /* FaceTrackingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceTrackingController.swift; sourceTree = "<group>"; };
+		A92080BD221268DF008C88E5 /* ImageTrackingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageTrackingController.swift; sourceTree = "<group>"; };
+		A92080C1221279A2008C88E5 /* IronMan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IronMan.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +114,10 @@
 				A920809022126090008C88E5 /* Assets.xcassets */,
 				A920809222126090008C88E5 /* LaunchScreen.storyboard */,
 				A920809522126090008C88E5 /* Info.plist */,
+				A92080B9221268BC008C88E5 /* WorldTrackingController.swift */,
+				A92080BB221268CF008C88E5 /* FaceTrackingController.swift */,
+				A92080BD221268DF008C88E5 /* ImageTrackingController.swift */,
+				A92080C1221279A2008C88E5 /* IronMan.swift */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
@@ -260,8 +272,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A92080BA221268BC008C88E5 /* WorldTrackingController.swift in Sources */,
+				A92080BC221268CF008C88E5 /* FaceTrackingController.swift in Sources */,
+				A92080C2221279A2008C88E5 /* IronMan.swift in Sources */,
 				A920808C2212608F008C88E5 /* ViewController.swift in Sources */,
 				A92080882212608F008C88E5 /* AppDelegate.swift in Sources */,
+				A92080BE221268DF008C88E5 /* ImageTrackingController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
