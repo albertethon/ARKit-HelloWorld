@@ -7,6 +7,6 @@ ARKit的HelloWorld，包含三种检测的Demo
 
 > 3.检测图片，然后在Users相应的位置生成白色方块
 
-![avatar](demo1.jpg)
+![avatar](HelloWorld/demo1.jpg)
 
-![avatar](demo2.PNG)
+![avatar](HelloWorld/demo2.PNG)
